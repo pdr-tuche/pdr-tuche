@@ -2,7 +2,7 @@
 ### `print("Olá mundo!")` 👋
 
 - 🌱 Atualmente estudando front end
-- ⚡ Fun fact: i love watermelon.
+- 🍉 gosto de melancia
 
 <div align="center">
   <a href="https://github.com/pdr-tuche">
