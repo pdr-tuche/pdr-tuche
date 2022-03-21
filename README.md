@@ -13,7 +13,7 @@
  ##
   
   <div> 
-  <p><a href ="https://www.paypal.com/donate?hosted_button_id=6562HEJZFKUVA">  apoie meu trabalho </a>
+  <p text-align: center;><a href ="https://www.paypal.com/donate?hosted_button_id=6562HEJZFKUVA">  apoie meu trabalho </a>
   <a href="https://www.paypal.com/donate?hosted_button_id=6562HEJZFKUVA" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a></p>
     <br />
   </div>
