@@ -1,7 +1,7 @@
 
 ### `print("Olá mundo!")` 👋
 
-- 🌱 Atualmente estudando front end
+- 🌱 Atualmente estudando front end e desenvolvimento Mobile
 - 🍉 gosto de melancia
 
 <div align="center">
