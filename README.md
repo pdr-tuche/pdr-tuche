@@ -1,8 +1,9 @@
 
 ### `print("Olá mundo!")` 👋
 
-- 🌱 Atualmente estudando front end e desenvolvimento Mobile
-- 🍉 gosto de melancia
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<p align="left"> - 🌱 Atualmente estudando front end e desenvolvimento Mobile</p>
+<p align="left"> - 🍉 gosto de melancia</p>
 
 <div align="center">
   <a href="https://github.com/pdr-tuche">
@@ -11,7 +12,14 @@
 </div>
   
  ##
-  
+ #### Skills
+  <img height ="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img height ="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img height ="20" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img height ="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img height = "30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img height ="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   
   
   <div>
