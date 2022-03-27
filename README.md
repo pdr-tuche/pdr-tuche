@@ -1,7 +1,7 @@
 
 ### `print("Olá mundo!")` 👋
 
-<img align="right" width="200px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" width="100px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 <p align="left"> - 🌱 Atualmente estudando front end e desenvolvimento Mobile</p>
 <p align="left"> - 🍉 gosto de melancia</p>
 <br><br><br><br><br><br>
