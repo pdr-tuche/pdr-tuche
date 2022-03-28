@@ -1,5 +1,5 @@
 ### <p align = 'center'> `print("Olá mundo!")` 👋 </p>
-<p align ='center'> - 🌱 Atualmente estudando front end e desenvolvimento Mobile</p>
+<p align ='center'> - 🌱 Atualmente estudando front-end e desenvolvimento Mobile</p>
 <div align="center">
   <a href="https://github.com/pdr-tuche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
