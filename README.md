@@ -10,13 +10,13 @@
 
 <div align="center">
   <a href="https://github.com/pdr-tuche">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   
   
- ##
+ ## 
   <div align="center">
      <p> Me conheça melhor em: </p> 
      <a href="https://dev.to/pdrtuche" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
@@ -26,4 +26,4 @@
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" width="112px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
