@@ -20,7 +20,7 @@
   
  ## 
   <div align="center">
-     <p> Me conheça melhor em: </p> 
+    <a href= "https://beacons.ai/pdrtuche" target="_blank"> <p> Sociais: </p> </a> 
      <a href="https://dev.to/pdrtuche" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
      <a href="https://instagram.com/pdr.tuche" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/pdr-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
