@@ -26,6 +26,6 @@
      <a href="https://www.twitch.tv/pdrtuche"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   </div>
   
-<!-- ![Snake animation](https://github.com/pdr-tuche/pdr-tuche/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pdr-tuche/pdr-tuche/blob/output/github-contribution-grid-snake.svg)
 
--->
+
