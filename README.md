@@ -1,31 +1,65 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdr-tuche&label=Profile%20views&color=0e75b6&style=flat" alt="pdr-tuche"</p>
 <div align= "center">
+  <img align = "right" width="150px" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
+  <p align = "center"> Atualmente estudando desenvolvimento Web e Mobile utilizando bibliotecas JavaScript. As vezes me arrisco em fazer algo em Python e C++. Entusiasta de Hardware e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
+</div>
 
-  ### `print("Olá mundo!")` 👋
-  
-</div>
-<div display = "flex">
-<a href="https://kotlinlang.org" > <img align="left" width="150px" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif"> </a>
-  <p align = "left"> Atualmente estudando desenvolvimento Web e Mobile com as linguagens Kotlin e JavaScript. As vezes me arrisco em fazer algo em Python e C++. Entusiasta de Hardware e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos e repassar para outras pessoas.</p>
-</div>
-<div align ="left">
-<p align = "left"> Atualmente estudando desenvolvimento Web e Mobile com as linguagens Kotlin e JavaScript. As vezes me arrisco em fazer algo em Python e C++. Entusiasta de Hardware e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos e repassar para outras pessoas.</p>
-  </div> 
-     <a href= "https://beacons.ai/pdrtuche" target="_blank"> <p> Conheça-me melhor em: </p> </a> 
-     <a href="https://dev.to/pdrtuche" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<div align= "center">
+    <a href= "https://www.linkedin.com/in/pdr-neves" target="_blank"> <p> Conheça-me melhor em: </p> </a> 
      <a href="https://instagram.com/pdr.tuche" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/pdr-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://www.twitch.tv/pdrtuche"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</div>
+<br>
 
+<details>
+    <summary> <b> GitHub Stats </b> <i>(clique para expandir! )</i> </summary>
   
+<br>
+ 
+<div align="center">  
+    <a href="https://github.com/pdr-tuche">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/pdr-tuche">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&line_height=30&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&hide=C&layout=compact"/>
+   </a>
+    <br><br>
+</div>
+</details>
+  
+<details>
+  <summary> <b> Projetos em Destaque </b> <i>(clique para expandir! )</i> </summary>
   <br>
 <div align="center">
-  <a href="https://github.com/pdr-tuche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&layout=compact&langs_count=6&theme=github_dark&hide=C"/>
-</div>
-  
-  
-<!-- ![Snake animation](https://github.com/pdr-tuche/pdr-tuche/blob/output/github-contribution-grid-snake.svg)
--->
+  <a href="https://github.com/pdr-tuche/xboxClone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&&repo=xboxClone" />
+  </a>
+  <a href="https://github.com/pdr-tuche/pokedex">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=pokedex" />
+  </a>
+    <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=cadastro_Fliperama" />
+  </a>
+      <a href="https://github.com/pdr-tuche/gerenciador_tarefas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=gerenciador_tarefas" />
+  </a>
+    <a href="https://github.com/pdr-tuche/py-zza">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=py-zza" />
+    </a>
+      <a href="https://github.com/pdr-tuche/projeto-aluno">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=projeto-aluno" />
+    </a>
+    <br>
+  </div>
+</details>
+      
+    
+    
+    
+    
+<div align = "right" >  
+  <p>Profile Views:</p>
 
+  ![Visitor Count](https://profile-counter.glitch.me/{pdr-tuche}/count.svg)
+  
+</div>
