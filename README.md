@@ -37,17 +37,23 @@
   <a href="https://github.com/pdr-tuche/pokedex">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=pokedex" />
   </a>
+  <a href="https://github.com/pdr-tuche/Lua">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=Lua" />
+  </a>
     <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=cadastro_Fliperama" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=cadastro_Fliperama" />
+  </a>
+  <a href="https://github.com/pdr-tuche/ACME">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=ACME" />
   </a>
       <a href="https://github.com/pdr-tuche/gerenciador_tarefas">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=gerenciador_tarefas" />
   </a>
-    <a href="https://github.com/pdr-tuche/py-zza">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=py-zza" />
+  <a href="https://github.com/pdr-tuche/projeto-aluno">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&repo=projeto-aluno" />
     </a>
-      <a href="https://github.com/pdr-tuche/projeto-aluno">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=projeto-aluno" />
+    <a href="https://github.com/pdr-tuche/py-zza">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&repo=py-zza" />
     </a>
     <br>
   </div>
