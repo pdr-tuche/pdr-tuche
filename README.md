@@ -18,12 +18,10 @@
  
 <div align="center">  
     <a href="https://github.com/pdr-tuche">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/pdr-tuche">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>    
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&line_height=30&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&hide=C&layout=compact"/>
    </a>
-    <br><br>
+    <br>
 </div>
 </details>
   
