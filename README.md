@@ -16,7 +16,7 @@
   <br>
 <div align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_radius=20"/>    
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&line_height=30&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&hide=Jupyter Notebook&layout=compact&locale=pt-br&border_radius=20"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&line_height=30&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000&hide=Jupyter Notebook,Tcl&layout=compact&locale=pt-br&border_radius=20"/>
     <br><br>
 </div>
   </details>
