@@ -2,7 +2,7 @@
 <samp>
   <div align = "center">
     <h1>
-        <img height="90em" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
+        <img height="60em" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
     </h1>
   </div>
 
