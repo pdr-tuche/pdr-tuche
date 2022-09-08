@@ -22,9 +22,10 @@
 <br>
 
 <details>
-  <summary> <b>🚀 Alguns Projetos </b> <i >(clique para expandir !!)</i> </summary>
+  <summary> <b>💻 Alguns Projetos </b> <i >(clique para expandir !!)</i> </summary>
   <br>
 <div align="center">
+  <h4>💾 Concluídos:</h4>
   <a href="https://github.com/pdr0nvs/xboxClone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr0nvs&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=xboxClone" />
   </a>
@@ -38,6 +39,7 @@
       <a href="https://github.com/pdr0nvs/gerenciador_tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr0nvs&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=gerenciador_tarefas" />
   </a>
+  <h4> 🚀 Em desenvolvimento: </h4>
   <a href="https://github.com/pdr0nvs/InstaladorDevWindows">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr0nvs&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=InstaladorDevWindows" />
   </a>
