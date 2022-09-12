@@ -60,4 +60,11 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&line_height=30&hide=Tcl&locale=pt-br&theme=tokyonight&hide_border=true"> 
     </a>
 </div>
+  <samp>
+  <div align="center">
+    <p><b>Profile Views:</b></p>
+  <img height ="20px" src="https://profile-counter.glitch.me/{pdr-tuche}/count.svg"> 
+ <!--<img src="https://komarev.com/ghpvc/?username=pdr-tuche&style=flat-square&color=1a1b27&label=profile+views"> -->
+  </div>
+</samp>
 </details>
