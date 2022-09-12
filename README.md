@@ -4,7 +4,7 @@
    
   <div align="center">
     <a href="https://beacons.ai/pdrtuche">
-  <img height="180em" align = "right" src="https://lanyard.cnrad.dev/api/259092600978407435?idleMessage=Hello%20World%20!!&animated=true&theme=dark&borderRadius=30px&hideBadges=false&hideDiscrim=true&bg=1a1b27"/>
+  <img height="180em" align = "right" src="https://lanyard.cnrad.dev/api/259092600978407435?idleMessage=Hello%20World%20!!&animated=true&theme=dark&borderRadius=30px&hideBadges=false&hideDiscrim=true&bg=1a1b27&hideTimestamp=true"/>
   </a>
   <br>
    <p>Meu nome é Pedro, tenho 24 anos e me aventuro no mundo do código há 3. Amante da arte e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
