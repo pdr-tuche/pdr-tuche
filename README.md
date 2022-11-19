@@ -9,7 +9,7 @@
   <br>
    <p>Meu nome é Pedro, tenho 24 anos e me aventuro no mundo do código há 3. Amante da arte e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
     <p>🌱 Atualmente estudando <code>Javascript</code>, <code>PHP</code> e <code>Java</code>.</p>
-  <p> Aos poucos me interessando pela 'DevOps', ela parece ser daora... espero que ela não quebre meu coração 💔.</p>
+ 
   </div>
 <br>
 <br>
