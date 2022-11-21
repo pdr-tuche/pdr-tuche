@@ -1,16 +1,25 @@
 <samp>
-  <h1 align="center"><img height ="60em" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/></h1>
-  
-   
-  <div align="center">
-    <a href="https://beacons.ai/pdrtuche">
-  <img height="180em" align = "right" src="https://lanyard.cnrad.dev/api/259092600978407435?idleMessage=Hello%20World%20!!&animated=true&theme=dark&borderRadius=30px&hideBadges=false&hideDiscrim=true&bg=1a1b27&hideTimestamp=true"/>
-  </a>
-  <br>
-   <p>Meu nome é Pedro, tenho 24 anos e me aventuro no mundo do código há 3. Amante da arte e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
-    <p>🌱 Atualmente estudando <code>Javascript</code>, <code>PHP</code> e <code>Java</code>.</p>
- 
+  <div align ="center" >
+    <img height ="60em" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
+    <img height = "130em" align = "left" src="https://media.giphy.com/media/3tilNxulfDGUZ26Iwx/giphy.gif" />
+    <img height = "130em" align ="right" src="https://media.giphy.com/media/Th49xtsrSFJVsIGtkB/giphy.gif"/>
   </div>
+  <div align = "center">
+    <h1 align="center">🟡🟢 ᴠᴀɪ ʙʀᴀsɪʟɪᴀᴍ 🟢🟡</h1>
+  </div>
+  
+  <div align="center">
+  <br>
+    <div align = "left">
+      <div align ="center">
+        <b>😃 Sobre mim:</b>
+        <p>Meu nome é Pedro, tenho 24 anos e me aventuro no mundo do código há 3.</p>
+        <p>Amante da arte e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
+        <p>🌱 Atualmente estudando desenvolvimento Mobile e Backend.</p>
+      </div>
+    </div>
+  </div>
+  
 <br>
 <br>
   <div align= "center">
@@ -30,24 +39,31 @@
   <br>
 <div align="center">
   <h4>💾 Concluídos:</h4>
+ 
+  <a href="https://github.com/pdr-tuche/ChocolateyDevPackages">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=ChocolateyDevPackages" />
+  </a>
+  <a href="https://github.com/pdr-tuche/CRUDJavaSwing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=CRUDJavaSwing" />
+  </a>
+  <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=cadastro_Fliperama" />
+  </a>
   <a href="https://github.com/pdr-tuche/xboxClone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=xboxClone" />
   </a>
   </a>
-    <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=cadastro_Fliperama" />
+    <a href="https://github.com/pdr-tuche/NLW-Esports-Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=NLW-Esports-Explorer" />
   </a>
-  <a href="https://github.com/pdr-tuche/ACME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=ACME" />
-  </a>
-      <a href="https://github.com/pdr-tuche/gerenciador_tarefas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=gerenciador_tarefas" />
-  </a>
+      
   <h4> 🚀 Em desenvolvimento: </h4>
-  <a href="https://github.com/pdr-tuche/InstaladorDevWindows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=InstaladorDevWindows" />
+  <a href="https://github.com/pdr-tuche/ReactPokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&repo=ReactPokedex" />
   </a>
-    <br>
+  <br>
+  <h4>🦊 voce pode encontrar alguns estudos com <code>Python</code> e <code>Java</code> no meu <a href="https://gitlab.com/pdr-tuche">GitLab.</a></h4>
+  <a href="https://gitlab.com/pdr-tuche"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </div>
 </details>
 <details>
@@ -68,3 +84,14 @@
   </div>
 </samp>
 </details>
+
+<div align="left">
+    <details>
+      <summary><b>quer saber o que estou fazendo ? 👀</b></summary>
+    <a href="https://beacons.ai/pdrtuche">
+      <div align = "center">
+    <img height="180em" src="https://lanyard.cnrad.dev/api/259092600978407435?idleMessage=Nothing%20at%20the%20moment%20...%20Maybe%20i'm%20sleeping%20zzz&animated=true&theme=dark&borderRadius=30px&hideBadges=false&hideDiscrim=true&bg=1a1b27&hideTimestamp=true"/>
+      </div>
+    </a>
+    </details>
+ </div>
