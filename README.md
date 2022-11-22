@@ -2,9 +2,8 @@
   <div align ="center" >
     <!--<img height ="60em" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>-->
     <img height = "130em" src="https://media.giphy.com/media/3tilNxulfDGUZ26Iwx/giphy.gif" />
-    <img height = "130em" src="https://media.giphy.com/media/Th49xtsrSFJVsIGtkB/giphy.gif"/>
-    <img height = "130em" src="https://media.giphy.com/media/9SIqd0JHYmRFhOFuMr/giphy.gif" />
     <img height = "130em" src="https://media.giphy.com/media/VVZJyMl82WO8LrrrK5/giphy.gif"/>
+    <img height = "130em" src="https://media.giphy.com/media/Th49xtsrSFJVsIGtkB/giphy.gif"/>
   </div>
   <br>
   <h1 align="center">🟡🟢 ᴠᴀɪ ʙʀᴀsɪʟɪᴀᴍ 🟢🟡</h1>
