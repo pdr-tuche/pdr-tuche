@@ -27,17 +27,19 @@
   <summary> <b>📊 GitHub Stats </b><i >(clique para expandir !!)</i> </summary>
   <br>
 <div align="center">
-  <a href = "https://github.com/pdr0nvs">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pdr-tuche&theme=tokyonight&hide_border=true&locale=pt-br&fire=FF6347">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&line_height=30&hide=Tcl&locale=pt-br&theme=tokyonight&hide_border=true"> 
-    </a>
-</div>
-  <samp>
+  
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdr-tuche&theme=tokyonight&hide_border=true&locale=pt-br&fire=FF6347) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdr-tuche&theme=tokyonight&hide_border=true&locale=pt-br&fire=FF6347) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdr-tuche&theme=tokyonight&hide_border=true&locale=pt-br&fire=FF6347) | ![](https://github-readme-streak-stats.herokuapp.com/?user=pdr-tuche&&theme=tokyonight&hide_border=true&fire=FF6347) |
+| :-: | :-: |
+  
+  
+  
   <div align="center">
     <p><b>Profile Views:</b></p>
   <img height ="20px" src="https://profile-counter.glitch.me/{pdr-tuche}/count.svg"> 
  <!--<img src="https://komarev.com/ghpvc/?username=pdr-tuche&style=flat-square&color=1a1b27&label=profile+views"> -->
-  </div>
+  </div> 
 </samp>
 </details>
