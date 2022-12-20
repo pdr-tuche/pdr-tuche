@@ -43,6 +43,6 @@
     <p><b>Profile Views: 👀</b></p>
   <img height ="20px" src="https://profile-counter.glitch.me/{pdr-tuche}/count.svg"> 
  <!--<img src="https://komarev.com/ghpvc/?username=pdr-tuche&style=flat-square&color=1a1b27&label=profile+views"> -->
-  </div>
+  </div> 
 </samp>
 </details>
