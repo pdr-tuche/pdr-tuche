@@ -7,7 +7,7 @@
  <b align="">Sobre mim:</b>
  <p align="">😃 Meu nome é Pedro, tenho 24 anos e me aventuro no mundo do código há 3.</p>
  <p align="">Amante da arte e apaixonado por ensinar e aprender, estou sempre em busca de aprimorar meus conhecimentos.</p>
- <p align="">🌱 Atualmente estudando desenvolvimento Mobile e Backend utilizando os frameworks React Native e Django.</p>    
+ <p align="">🌱 Atualmente estudando desenvolvimento Mobile e Backend utilizando os frameworks React Native e Spring.</p>    
  <p align=""> Confira um pouco do meu trabalho neste <a href="https://pdr-tuche.github.io/portifolio/" target="_blank">portfólio</a> 👈</p>
   </div>
   <br>
