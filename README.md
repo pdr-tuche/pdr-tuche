@@ -30,17 +30,16 @@
   
   
   <a href="https://github.com/pdr-tuche/xboxClone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&repo=xboxClone" />
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&theme=tokyonight&repo=xboxClone" />
   </a>
   <a href="https://github.com/pdr-tuche/ReactPokedex">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&repo=ReactPokedex" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&repo=ReactPokedex" />
   </a>
     <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&repo=cadastro_Fliperama" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&repo=cadastro_Fliperama" />
   </a>
   <a href="https://github.com/pdr-tuche/projeto-aluno">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&repo=projeto-aluno" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&repo=projeto-aluno" />
     </a>
     <br>
   </div>
@@ -52,12 +51,15 @@
   <br>
 <div align="center">
   <a href = "https://github.com/pdr0nvs">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=transparent&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
+        <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=transparent&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=transparent&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
-    <img height="180em" src="https://streak-stats.demolab.com?user=pdr-tuche&theme=github-dark&locale=pt_BR&fire=FF8B33&ring=0094F5C5&currStreakNum=FF8B33&currStreakLabel=FF8B33&sideLabels=0094F5C5&sideNums=0094F5C5&dates=0094F5C5&background=FFFFFF00&border=A6A6A6CF&stroke=0094F5C5">
+    <img height="180em" src="https://streak-stats.demolab.com?user=pdr-tuche&theme=github-dark&locale=pt_BR&fire=FF8B33&ring=0094F5C5&currStreakNum=FF8B33&currStreakLabel=FF8B33&sideLabels=0094F5C5&sideNums=0094F5C5&dates=0094F5C5&background=FFFFFF00&border=A6A6A6CF&stroke=0094F5C5"> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
+    <img height="180em" src="https://streak-stats.demolab.com?user=pdr-tuche&theme=tokyonight&locale=pt_BR&fire=FF8B33&border=A6A6A6CF&stroke=0094F5C5">
     </a>
         <h3>🏆 GitHub Profile Trophies 🏆</h3>
-        <img height = "230em" src="https://github-profile-trophy.vercel.app/?username=pdr-tuche&theme=discord&no-bg=true&no-frame=true&row=2&column=3&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues">
+        <img height = "230em" src="https://github-profile-trophy.vercel.app/?username=pdr-tuche&theme=tokyonight&no-bg=false&no-frame=true&row=2&column=3&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues">
     </a>
  </div>
  <br>
