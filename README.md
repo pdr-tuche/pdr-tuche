@@ -1,32 +1,28 @@
 <samp>
-<img height="200px"align="left" src="https://media.giphy.com/media/uPzhU1NKrzA5Whq1Gz/giphy.gif"/>
-<img height="200px"align="right" src="https://media.giphy.com/media/JQODyLnXukFK7xvbB2/giphy.gif"/>
   <div id="top" align ="center" >
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%98%80;is+it+me+you're+looking+for%3F+%F0%9F%8E%B5" alt="Typing SVG" />
   </div>
+  <img height="200px"align="left" src="https://media.giphy.com/media/uPzhU1NKrzA5Whq1Gz/giphy.gif"/>
+<img height="200px"align="right" src="https://media.giphy.com/media/JQODyLnXukFK7xvbB2/giphy.gif"/>
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">Meu nome é Pedro, tenho 24 anos, sou adimirador da arte e aproximadamente a 3 anos venho me aventurando na arte da codificação 👨‍💻</p>
-<p align="">Atualmente estudando desenvolvimento Backend e Mobile utilizando Java e JavaScript.</p>
-<p align="">Confira alguns de meus projetos no <a href="https://www.youtube.com/@pdr-tuche">YouTube</a> ou neste <a href="https://pdr-tuche.github.io/portifolio/" target="_blank">portfólio</a> 👈</p>
+<p align="">Meu nome é Pedro, tenho 24 anos, atualmente estou estudando desenvolvimento backend e estou em um relacionamento complicado com o Java, pois ando flertando com o Python.😅</p>
+<p>Sou admirador da arte e há aproximadamente 3 anos venho me aventurando na arte da codificação 👨‍💻</p>
+
   <br>
   <div align="center">
-  <p><b>sociais:</b></p>
+  <p><b>você pode me encontrar em:</b></p>
   <a href="https://www.linkedin.com/in/pdr-neves/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:contato.nevespedro@gmail.com.br">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.youtube.com/@pdr-tuche">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
-  <a href="https://t.me/pdrTuche">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+
   <a href="https://www.instagram.com/pdr0nvs/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/pdrtuche">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>
+
   <p>📲 Pode me mandar mensagem no <a href ="https://t.me/pdrTuche">Telegram</a>, vou gostar de conversar sobre tecnologia com você ^^</p>
   </div>
   </samp>
@@ -86,6 +82,7 @@
   </div> 
 </samp>
 </details>
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=inicio&color=7E3ACE&style=flat&logo" alt="Início" /></a></p>
-<img src=".github/images/footer.svg"width="100%">
-<img src="https://pin.it/6RWvcFb" width="100%" height="200px" />
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=inicio&color=eab63f&style=flat&logo" alt="Início" /></a></p>
+<!-- <img src=".github/images/footer.svg"width="100%"> -->
+<p>code is art</p>
+<img src=".github/images/vangoghflowers.jpg" width="100%" height="200px" />
