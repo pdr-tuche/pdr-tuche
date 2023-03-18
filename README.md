@@ -1,12 +1,12 @@
 <samp>
+<img height="200px"align="left" src="https://media.giphy.com/media/uPzhU1NKrzA5Whq1Gz/giphy.gif"/>
+<img height="200px"align="right" src="https://media.giphy.com/media/JQODyLnXukFK7xvbB2/giphy.gif"/>
   <div id="top" align ="center" >
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%98%80;is+it+me+you're+looking+for%3F+%F0%9F%8E%B5" alt="Typing SVG" />
   </div>
-
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">Meu nome é Pedro, tenho 24 anos e sou o mais novo fã do <a href="https://g.co/kgs/3MnuyR">Lionel Richie</a> 🎙</p>
-<p align="">Sou adimirador da arte e aproximadamente a 3 anos venho me aventurando na arte da codificação 👨‍💻</p>
+<p align="">Meu nome é Pedro, tenho 24 anos, sou adimirador da arte e aproximadamente a 3 anos venho me aventurando na arte da codificação 👨‍💻</p>
 <p align="">Atualmente estudando desenvolvimento Backend e Mobile utilizando Java e JavaScript.</p>
 <p align="">Confira alguns de meus projetos no <a href="https://www.youtube.com/@pdr-tuche">YouTube</a> ou neste <a href="https://pdr-tuche.github.io/portifolio/" target="_blank">portfólio</a> 👈</p>
   <br>
@@ -88,3 +88,4 @@
 </details>
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=inicio&color=7E3ACE&style=flat&logo" alt="Início" /></a></p>
 <img src=".github/images/footer.svg"width="100%">
+<img src="https://pin.it/6RWvcFb" width="100%" height="200px" />
