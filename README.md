@@ -2,11 +2,12 @@
   <div id="top" align ="center" >
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=0094F5&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%98%80;is+it+me+you're+looking+for%3F+%F0%9F%8E%B5" alt="Typing SVG" />
   </div>
-  <img height="200px"align="left" src="https://media.giphy.com/media/uPzhU1NKrzA5Whq1Gz/giphy.gif"/>
-<img height="200px"align="right" src="https://media.giphy.com/media/JQODyLnXukFK7xvbB2/giphy.gif"/>
-<div align="center">
-<b align="">Sobre mim:</b>
-<p align="">Meu nome é Pedro, tenho 24 anos, atualmente estou estudando desenvolvimento backend e estou em um relacionamento complicado com o Java, pois ando flertando com o Python.😅</p>
+
+  <img align="right" src=".github/images/renascimento.png" height="270px">
+
+<b align="left">Sobre mim:</b>
+
+<p align="left">Meu nome é Pedro, tenho 24 anos, atualmente estou estudando desenvolvimento backend e estou em um relacionamento complicado com o Java, pois ando flertando com o Python.😅</p>
 <p>Sou admirador da arte e há aproximadamente 3 anos venho me aventurando na arte da codificação 👨‍💻</p>
 
   <br>
@@ -85,4 +86,4 @@
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=inicio&color=eab63f&style=flat&logo" alt="Início" /></a></p>
 <!-- <img src=".github/images/footer.svg"width="100%"> -->
 <p>code is art</p>
-<img src=".github/images/vangoghflowers.jpg" width="100%" height="200px" />
+<img src=".github/images/vanGoghFlowersPC.jpg" width="100%" height="200px" />
