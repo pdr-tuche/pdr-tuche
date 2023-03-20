@@ -86,4 +86,4 @@
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=inicio&color=eab63f&style=flat&logo" alt="Início" /></a></p>
 <!-- <img src=".github/images/footer.svg"width="100%"> -->
 <p align="center">code is art</p>
-<img align="center" src=".github/images/vanGoghFlowersPC.jpg" width="100%" height="auto" />
+<img align="center" src="https://media.giphy.com/media/g9wbFB61YEh1u/giphy.gif" width="100%" height="250px" />
