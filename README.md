@@ -19,28 +19,12 @@ Estou no mundo da tecnologia a quatro anos e comecei nesta área programando par
 ### Sociais
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pdr-neves" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="http://www.instagram.com/pdr0nvs" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.youtube.com/@pdr-tuche" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="https://stackoverflow.com/users/22995193/pedro-neves" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  </p>
+  <a href="https://www.linkedin.com/in/pdr-neves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="http://www.instagram.com/pdr0nvs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://www.youtube.com/@pdr-tuche" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://stackoverflow.com/users/22995193/pedro-neves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a></p>
 <br>
   <details>
   <summary> <b> Projetos em Destaque </b> <i>(clique para expandir! )</i> </summary>
   <br>
 <div align="center">
-  
   
   <a href="https://github.com/pdr-tuche/xboxClone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&theme=tokyonight&border_color=A6A6A6CF&repo=xboxClone" />
