@@ -55,7 +55,7 @@ Estou no mundo da tecnologia a quatro anos e comecei nesta área programando par
 <div align="center">
   <a href = "https://github.com/pdr0nvs">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_rank=true&rank_icon=percentile&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_coflor=0094F5C5">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&card_width=180&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&size_weight=0.5&count_weight=0.5&hide_progress=true&hide=html">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&layout=compact&card_width=180&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&hide_progress=true&hide=html,scss,css,hack&size_weight=0.5&count_weight=0.5">
     </a>
 <!--         <h3>🏆 GitHub Profile Trophies 🏆</h3>
         <img height = "230em" src="https://github-profile-trophy.vercel.app/?username=pdr-tuche&theme=tokyonight&no-bg=false&no-frame=true&row=2&column=3&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues">
