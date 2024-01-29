@@ -2,12 +2,14 @@
  
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">Estou no mundo da tecnologia a quatro anos e comecei nesta área programando para sistemas embarcados. Por ser curioso, passei por diversas áreas até encontrar o desenvolvimento web, onde, atualmente venho focando em desenvolvimento backend.</p>
-<p align="">Não sou apegado a linguagem de programação, minha experiencia se resume em desenvolvimento de sistemas web em Java JSP e SpringBoot. Utilizando JavaScript, criei aplicativos mobile com React Native. No dia a dia trabalho em alguns projetos da <a href= "https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe">fabrica de software unipe</a> desenvolvendo com Django Rest Framework (DRF).</p>
-<p align="">No entanto, tenho uma grande vontade de migrar de stack, sendo assim, voltei a estudar Java e SpringBoot mas também gosto de brincar com TypeScript e Express. Sou entusiasta do OpenSource e estou aberto a colaborar em projetos com estes frameworks. 🤝</p>
-<h3>Minha Stack:</h3>
+<p align="">Programador há 4 anos, a maior parte da minha experiência se resume em criação e deploy de aplicações web na plataforma de nuvem DigitalOcean.</p>
+<p align="">Não sou apegado a linguagem de programação, minha experiencia se resume em desenvolvimento de backend com Python e Django Rest Framework, sistemas web em Java JSP e SpringBoot, PHP e Laravel. Utilizando JavaScript, criei aplicativos mobile com React Native. Hodiernamente venho focando em desenvolvimento de API 's REST com PHP e Laravel.</p>
+<p align="">Gosto de brincar com TypeScript e Express. Sou entusiasta do OpenSource e estou aberto a colaborar em projetos com estes frameworks. 🤝</p>
+<b>Minha Stack:</b>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
@@ -37,22 +39,22 @@
 <br>
 <div align="center">
   <a href="https://github.com/pdr-tuche/desafio_cangas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=desafio_cangas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=desafio_cangas" />
+  </a>
+  <a href="https://github.com/pdr-tuche/Biblia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=Biblia" />
   </a>
   <a href="https://github.com/pdr-tuche/Seven-Days-Of-Code-Java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=Seven-Days-Of-Code-Java" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=Seven-Days-Of-Code-Java" />
   </a>
   <a href="https://github.com/pdr-tuche/ChocolateyDevPackages">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=ChocolateyDevPackages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=ChocolateyDevPackages" />
   </a>
   <a href="https://github.com/pdr-tuche/swagger-rest-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=swagger-rest-api" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=swagger-rest-api" />
   </a>
   <a href="https://github.com/pdr-tuche/CRUDJavaSwing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=CRUDJavaSwing" />
-  </a>
-  <a href="https://github.com/pdr-tuche/cadastro_Fliperama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=tokyonight&border_color=A6A6A6CF&repo=cadastro_Fliperama" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=CRUDJavaSwing" />
   </a>
   <br>
 </div>
@@ -61,8 +63,9 @@
   <summary> <b>📊 GitHub Stats </b><i >(clique para expandir !!)</i> </summary>
   <br>
   <div align="center">
-    <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&locale=pt-br&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5"></a>
-    <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&langs_count=6&hide=html,css,scss,hack&layout=compact&hide_progress=true&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5&size_weight=0.5&count_weight=0.5"></a>
+   <a href = "https://github.com/pdr-tuche"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pdr-tuche&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Total%20de%20contribuições%20" width="95%" alt="activity graph"></a>
+   <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=gotham&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&locale=pt-br"></a>
+   <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&theme=gotham&hide_progress=true&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss,hack&range=all_time&line_height=30&locale=pt-br"/></a>
    </div>
    <br>
    <br>
