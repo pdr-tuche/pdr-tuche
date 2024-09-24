@@ -2,21 +2,22 @@
  
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">Programador há 4 anos, a maior parte da minha experiência se resume em criação e deploy de aplicações web na plataforma de nuvem DigitalOcean.</p>
-<p align="">Não sou apegado a linguagem de programação, minha experiencia se resume em desenvolvimento de backend com Python e Django Rest Framework, sistemas web em Java JSP e SpringBoot, PHP e Laravel. Utilizando JavaScript, criei aplicativos mobile com React Native. Hodiernamente venho focando em desenvolvimento de API 's REST com PHP e Laravel.</p>
-<p align="">Gosto de brincar com TypeScript e Express. Sou entusiasta do OpenSource e estou aberto a colaborar em projetos com estes frameworks. 🤝</p>
-<b>Minha Stack:</b>
+<p align="">Programador há 5 anos, já passei por diversas áreas da engenharia de software, sendo que a maior parte da minha experiência se concentra no desenvolvimento de backend.</p>
+<p align="">Hodiernamente, estou trilhando o caminho para me tornar Fullstack. Trabalho com PHP, TypeScript, Symfony e Angular.</p>
+<p align="">No entanto, não me limito apenas a essas tecnologias. Você pode conferir minha stack nos ícones abaixo:</p>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="36" height="36" alt="PHP" /></a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=symfony&theme=dark" width="36" height="36" alt="Symfony" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" height="36" alt="Django" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=light" width="36" height="36" alt="Express" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nest&theme=dark" width="36" height="36" alt="Nest" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="36" height="36" alt="Linux" /></a>
