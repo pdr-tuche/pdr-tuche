@@ -3,8 +3,8 @@
 <div align="center">
 <b align="">Sobre mim:</b>
 <p align="">Programador há 5 anos, já passei por diversas áreas da engenharia de software, sendo que a maior parte da minha experiência se concentra no desenvolvimento de backend.</p>
-<p align="">Hodiernamente, estou trilhando o caminho para me tornar Fullstack. Trabalho com PHP, TypeScript, Symfony e Angular. No entanto, não me limito apenas a essas tecnologias. Você pode conferir minha stack nos ícones abaixo:</p>
-<p align="center">
+<p align="">Hodiernamente, estou trilhando o caminho para me tornar Fullstack. Trabalho com PHP, TypeScript, Symfony e Angular. No entanto, não me limito apenas a essas tecnologias.</p>
+<!-- <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
 <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=symfony&theme=dark" width="36" height="36" alt="Symfony" /></a>
@@ -23,10 +23,10 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="Bash" /></a>
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 <h6>⬆ clique na tecnologia para saber mais sobre ela ⬆</h6>
-</p>
+</p> -->
 <br>
 <div align="center">
-  <p><b>sociais:</b></p>
+  <p><b>Você pode me encontrar em:</b></p>
   <code><a href="https://www.linkedin.com/in/pdr-neves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
   <code><a href="http://www.instagram.com/pdr0nvs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
   <code><a href="https://t.me/pdrTuche"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></code>
