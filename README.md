@@ -66,7 +66,7 @@
   <br>
   <div align="center">
    <!-- <a href = "https://github.com/pdr-tuche"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pdr-tuche&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Total%20de%20contribuições%20" width="95%" alt="activity graph"></a> -->
-   <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"></a>
+<!--    <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"></a> -->
    <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&theme=gotham&hide_progress=true&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss,hack&range=all_time&line_height=30&locale=pt-br"/></a>
    </div>
    <br>
